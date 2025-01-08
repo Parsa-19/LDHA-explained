@@ -10,4 +10,4 @@ check the proposal [here]() and documents in [here]().
 <br>
 
 > [!NOTE]
-> There is also a similar abbriviation for LDHA which is a medical concept which has nothing to do with my repositiry. [ldha Lactate dehydrogenase A](https://en.wikipedia.org/wiki/Lactate_dehydrogenase_A)
+> There is also a similar abbriviation for LDHA which is a medical concept which has nothing to do with my repositiry. <br> [ldha (Lactate dehydrogenase A)](https://en.wikipedia.org/wiki/Lactate_dehydrogenase_A)
