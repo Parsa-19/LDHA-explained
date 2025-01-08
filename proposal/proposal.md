@@ -1,4 +1,4 @@
-# Definition Of The General Idea
+# Definition & The General Idea
 Im going to load-balance two applications(Laravel and Django) by HAproxy on a Ubuntu. <br>
 HAproxy will serve weather Django or Laravel by the request it gets from browser. <br>
 Each phase is going to be implemented in docker and will have a docker compose file for itself:  <br>
