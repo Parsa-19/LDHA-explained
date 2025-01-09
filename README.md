@@ -2,8 +2,7 @@
 LDHA stands for "**LARAVEL**-**DJANGO**-**HAPROXY**" which is implemented in docker and by docker compose.
 
 ## This Repository
-this repo is created to explain the project, present proposal, and provide project's document.
-
+this repo is created to explain the project, present proposal, and provide project's document. <br>
 check the [proposal here](https://github.com/Parsa-19/LDHA-explained/tree/main/proposal) and [documents in here](https://github.com/Parsa-19/LDHA-explained/tree/main/documnets).
 
 <br>
