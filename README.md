@@ -3,7 +3,7 @@ LDHA stands for "**LARAVEL**-**DJANGO**-**HAPROXY**" which is implemented in doc
 
 ## This Repository
 this repo is created to explain the project, present proposal, and provide project's document. <br>
-check the [proposal here](https://github.com/Parsa-19/LDHA-explained/tree/main/proposal) and [documents in here](https://github.com/Parsa-19/LDHA-explained/tree/main/documnets).
+check the [proposal here](https://github.com/Parsa-19/LDHA-explained/blob/main/proposal/proposal.md) and [documents in here](https://github.com/Parsa-19/LDHA-explained/tree/main/documnets).
 
 <br>
 <br>
