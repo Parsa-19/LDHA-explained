@@ -1,0 +1,9 @@
+>>> docker exec -it test_deploy_web bash
+
+[test_deploy_web]>>> ./manage.py makemigrations
+
+[test_deploy_web]>>> ./manage.py migrate
+
+[test_deploy_web]>>> ./manage.py createsuperuser
+
+[test_deploy_web]>>> ./manage.py collectstatic
