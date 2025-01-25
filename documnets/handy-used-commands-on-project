@@ -1,0 +1,25 @@
+container name
+network
+port
+volume
+image
+
+
+sudo docker run -d    --name haproxy    --net haproxy-net    -p 80:80    -p 8404:8404    -v /home/parsa/LDHA/LDHA-project/proxy/final:/usr/local/etc/haproxy     haproxytech/haproxy-alpine:2.4
+
+
+docker pull hapee-registry.haproxy.com/haproxy-enterprise:3.0r1
+
+
+sudo journalctl -u docker.service -n 30
+
+
+google-chrome --proxy-server="http://msf.alefbyte.com:58889"
+
+
+"ignoring event" container=3c731d6affb583ec4b9fa8a1b6c6e89faaa2492927a50d013594d18fa4c47cf4 module=libcontainerd namespace=moby topic=/tasks/delete type="*events.TaskDelete"
+
+
+
+
+
