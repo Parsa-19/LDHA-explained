@@ -1,8 +1,9 @@
 # Definition & The General Idea
 Im going to load-balance two applications(Laravel and Django) by HAproxy on Ubuntu. <br>
-HAproxy will serve weather Django or Laravel depends on the request it gets from browser. <br>
+HAproxy will serve two web apps Django/Laravel depend on request it gets from browser. <br>
 Each phase is going to be implemented in docker and will have a docker compose file for itself. <br>
-A yml file for HAproxy container, another one for Laravel containers and one more for Django. <br>
+docker compose files are for: Django, Laravel, Haproxy <br>
+
 
 
 # 1- config HAproxy and create a docker compose file for it
